@@ -25,3 +25,9 @@
   margin: 0 auto 80px;
   color: #7D7D7D;
 }
+.body {
+  font-size: 18px;
+  font-family: 'PT Serif', serif;
+  line-height: 1.6;
+  color: #414141;
+}
